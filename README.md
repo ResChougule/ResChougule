@@ -35,6 +35,16 @@
 ## 📊 Featured Projects
 
 <p align="center">
+  <a href="https://github.com/ResChougule/forage-bcg-beyondtech-case">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ResChougule&repo=forage-bcg-beyondtech-case" alt="Forage BCG BeyondTech Case" />
+  </a>
+</p>
+
+
+
+
+
+<p align="center">
   <a href="https://github.com/YOUR_USERNAME/customer-churn-analysis">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=customer-churn-analysis" alt="Customer Churn Analysis" />
   </a>
