@@ -34,14 +34,20 @@
 
 ## 📊 Featured Projects
 
-  <!-- Forage BCG BeyondTech Case -->
-  <a href="https://github.com/ResChougule/forage-bcg-beyondtech-case">
-    <img src="https://raw.githubusercontent.com/ResChougule/forage-bcg-beyondtech-case/main/dashboard.png" width="250" alt="Forage BCG BeyondTech Case" />
-  </a>
-  <a href="https://github.com/ResChougule/forage-bcg-beyondtech-case">
-    <p align="center"><b>Forage BCG BeyondTech Case</b><br>Data analysis & business strategy case study</p>
-  </a>
-</p>
+  ## 🚀 Featured Projects
+
+### 1️⃣ Forage BCG BeyondTech Case
+**Description:**  
+Data analysis & business strategy case study for BCG BeyondTech. Explored actionable insights using structured datasets and visualization techniques.
+
+**Repository:**  
+[View on GitHub](https://github.com/ResChougule/forage-bcg-beyondtech-case)
+
+**Preview:**  
+![Forage BCG BeyondTech Case](https://raw.githubusercontent.com/ResChougule/forage-bcg-beyondtech-case/main/dashboard.png)
+
+---
+
 
 
 
