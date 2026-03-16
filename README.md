@@ -34,10 +34,6 @@
 
 ## 📊 Featured Projects
 
-
-## 🚀 Featured Projects
-
-<p align="center">
   <!-- Forage BCG BeyondTech Case -->
   <a href="https://github.com/ResChougule/forage-bcg-beyondtech-case">
     <img src="https://raw.githubusercontent.com/ResChougule/forage-bcg-beyondtech-case/main/dashboard.png" width="250" alt="Forage BCG BeyondTech Case" />
