@@ -34,7 +34,7 @@
 
 # 📊 Featured Projects
 
-## Table of Conetents 
+## Table of Contents 
  
 1. 🚀 [Forage BCG BeyondTech Case](https://github.com/ResChougule/forage-bcg-beyondtech-case)
 <p>
