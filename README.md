@@ -32,9 +32,9 @@
 
 ---
 
-## 📊 Featured Projects
+# 📊 Featured Projects
 
-# Table of Conetents 
+## Table of Conetents 
  
 1. 🚀 [Forage BCG BeyondTech Case](https://github.com/ResChougule/forage-bcg-beyondtech-case)
 <p>
