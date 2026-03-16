@@ -34,13 +34,18 @@
 
 ## 📊 Featured Projects
 
+
+## 🚀 Featured Projects
+
 <p align="center">
+  <!-- Forage BCG BeyondTech Case -->
   <a href="https://github.com/ResChougule/forage-bcg-beyondtech-case">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ResChougule&repo=forage-bcg-beyondtech-case" alt="Forage BCG BeyondTech Case" />
+    <img src="https://raw.githubusercontent.com/ResChougule/forage-bcg-beyondtech-case/main/dashboard.png" width="250" alt="Forage BCG BeyondTech Case" />
+  </a>
+  <a href="https://github.com/ResChougule/forage-bcg-beyondtech-case">
+    <p align="center"><b>Forage BCG BeyondTech Case</b><br>Data analysis & business strategy case study</p>
   </a>
 </p>
-
-
 
 
 
