@@ -34,34 +34,15 @@
 
 ## 📊 Featured Projects
 
-  ## 🚀 Featured Projects
-
-### 1️⃣ Forage BCG BeyondTech Case
-**Description:**  
-Data analysis & business strategy case study for BCG BeyondTech. Explored actionable insights using structured datasets and visualization techniques.
-
-**Repository:**  
-[View on GitHub](https://github.com/ResChougule/forage-bcg-beyondtech-case)
-
-**Preview:**  
-![Forage BCG BeyondTech Case](https://raw.githubusercontent.com/ResChougule/forage-bcg-beyondtech-case/main/dashboard.png)
-
----
-
-
-
-
-<p align="center">
-  <a href="https://github.com/YOUR_USERNAME/customer-churn-analysis">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=customer-churn-analysis" alt="Customer Churn Analysis" />
-  </a>
-  <a href="https://github.com/YOUR_USERNAME/sales-dashboard">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=sales-dashboard" alt="Sales Dashboard" />
-  </a>
-  <a href="https://github.com/YOUR_USERNAME/market-research">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=market-research" alt="Market Research" />
-  </a>
+ 
+### 🚀 [Forage BCG BeyondTech Case](https://github.com/ResChougule/forage-bcg-beyondtech-case)
+<p>
+  <span style="background: linear-gradient(90deg, #ff6a00, #ee0979); -webkit-background-clip: text; color: transparent; font-weight: bold; font-size: 18px;">
+    Data analysis & business strategy case study
+  </span>
 </p>
+
+
 
 ---
 
