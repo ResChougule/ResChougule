@@ -4,7 +4,7 @@
 </h1>
 
 <p align="center">
-  🔍 Turning complex data into actionable strategy | Data Analytics & Business Strategy
+  🔍 Data Analytics & Business Strategy
 </p>
 
 ---
