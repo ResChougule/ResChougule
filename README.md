@@ -47,6 +47,60 @@
 
 ---
 
+
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <!-- Profile stats card -->
+  <img src="https://github-readme-stats.vercel.app/api?username=ResChougule&show_icons=true&count_private=true&theme=radical&hide_title=false&hide_border=false" alt="GitHub Stats" width="450"/>
+</p>
+
+<p align="center">
+  <!-- Top languages card -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ResChougule&layout=compact&theme=radical&hide_border=false" alt="Top Languages" width="450"/>
+</p>
+
+<p align="center">
+  <!-- Contribution streak card -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ResChougule&theme=radical&hide_border=false" alt="GitHub Streak" width="450"/>
+</p>
+
+<p align="center">
+  <!-- Extra fun card: trophies -->
+  <img src="https://github-profile-trophy.vercel.app/?username=ResChougule&theme=radical&row=1&column=5" alt="GitHub Trophies" width="450"/>
+</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ## 📈 GitHub Stats
 
 <p align="center">
