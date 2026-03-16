@@ -92,23 +92,33 @@
 
 
 
-
-
-
-
-
-
-
-
-
 ## 📈 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&count_private=true&theme=radical" alt="GitHub Stats" />
+<p align="left">
+  <!-- Profile Stats Card -->
+  <img src="https://github-readme-stats.vercel.app/api?username=ResChougule&show_icons=true&count_private=true&theme=gruvbox&hide_border=false" alt="GitHub Stats" width="450"/>
 </p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical" alt="Top Languages" />
+
+<p align="left">
+  <!-- Top Languages Card -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ResChougule&layout=compact&theme=gruvbox&hide_border=false" alt="Top Languages" width="450"/>
 </p>
+
+<p align="left">
+  <!-- Contribution Streak Card -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ResChougule&theme=tokyonight&hide_border=false" alt="GitHub Streak" width="450"/>
+</p>
+
+<p align="left">
+  <!-- Trophy Card -->
+  <img src="https://github-profile-trophy.vercel.app/?username=ResChougule&theme=tokyonight&row=1&column=5" alt="GitHub Trophies" width="450"/>
+</p>
+
+
+
+
+
+
 
 ---
 
