@@ -3,7 +3,9 @@
   <img src="https://readme-typing-svg.herokuapp.com?lines=Data+Analyst;Business+Strategist;Insights+Driven;Decision+Maker&font=Fira+Code&size=24&pause=1000&color=00FF00&width=500&height=50" alt="Typing SVG">
 </h1>
 </p>
-## 🌐 Let’s Connect  
+
+
+##  🌐 Let’s Connect  
 
 <p align="center">
   Open to opportunities and collaborations 🚀 <br><br>
@@ -20,6 +22,9 @@
     <img src="https://img.shields.io/badge/GitHub-Explore%20Projects-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
+
+
+
 ### 📊 Data Analytics & Tools
 <p align="left">
   <img src="https://img.shields.io/badge/Python-F7DF1E?style=for-the-badge&logo=python&logoColor=darkgreen" /> 
