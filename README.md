@@ -60,8 +60,7 @@
 <p align="center">
   ✉️ Email: reshma.chougule925@email.com <br>
   🔗 LinkedIn: <a href="https://linkedin.com/in/reshmachougule">linkedin.com/in/reshmachougule</a> <br>
-  🐦 Twitter: <a href="https://twitter.com/reshmachougule">@reshmachougule</a>
-</p>
+  
 
 ---
 
