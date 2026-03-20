@@ -9,12 +9,26 @@
 
 ---
 
-🧠 Skills
-📊 Data Analytics & Tools
-<p align="left"> <img src="https://img.shields.io/badge/Python-yellow" /> <img src="https://img.shields.io/badge/R-blue" /> <img src="https://img.shields.io/badge/SQL-lightgrey" /> <img src="https://img.shields.io/badge/Excel-green" /> <img src="https://img.shields.io/badge/Tableau-orange" /> <img src="https://img.shields.io/badge/PowerBI-lightblue" /> </p>
-💼 Business & Strategy
-<p align="left"> <img src="https://img.shields.io/badge/Data--Driven_Decisions-brightgreen" /> <img src="https://img.shields.io/badge/Market_Analysis-blueviolet" /> <img src="https://img.shields.io/badge/Financial_Modeling-lightblue" /> <img src="https://img.shields.io/badge/Project_Management-red" /> <img src="https://img.shields.io/badge/Business_Strategy-purple" /> </p>
----
+## 🧠 Skills
+
+### 📊 Data Analytics & Tools
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-F7DF1E?style=for-the-badge&logo=python&logoColor=darkgreen" /> 
+  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" /> 
+  <img src="https://img.shields.io/badge/SQL-00758F?style=for-the-badge&logo=sqlite&logoColor=white" /> 
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" /> 
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" /> 
+  <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=microsoft-power-bi&logoColor=black" />
+</p>
+
+### 💼 Business & Strategy
+<p align="left">
+  <img src="https://img.shields.io/badge/Data--Driven_Decisions-21BA45?style=for-the-badge&logo=googleanalytics&logoColor=white" /> 
+  <img src="https://img.shields.io/badge/Market_Analysis-6F42C1?style=for-the-badge&logo=analytics&logoColor=white" /> 
+  <img src="https://img.shields.io/badge/Financial_Modeling-00BFFF?style=for-the-badge&logo=excel&logoColor=white" /> 
+  <img src="https://img.shields.io/badge/Project_Management-FF5733?style=for-the-badge&logo=asana&logoColor=white" /> 
+  <img src="https://img.shields.io/badge/Business_Strategy-8A2BE2?style=for-the-badge&logo=business&logoColor=white" />
+</p>
 
 # 📊 Featured Projects
 
