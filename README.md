@@ -34,9 +34,9 @@
 
 
 ## 📊 Projects
+-
 
-
-Table of Contents
+## Table of Contents
 
 ##  Strategy 
  
