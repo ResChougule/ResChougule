@@ -9,7 +9,7 @@
 
 📬 Reach me      ➜ reshama.chougule925@email.com  
 🤝 LinkedIn     ➜ linkedin.com/in/reshmachougule  
-💻 GitHub       ➜ github.com/resChougule  
+💻 GitHub       ➜ github.com/ResChougule  
 
 ### 📊 Data Analytics & Tools
 <p align="left">
