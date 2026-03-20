@@ -59,14 +59,4 @@
 
 
 ## 🌐 Connect with Me
-<p align="center">
-  <a href="mailto:reshma.chougule925@email.com">
-    <img src="https://img.shields.io/badge/Email-✉️%20reshma.chougule925@email.com-blue?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://linkedin.com/in/reshmachougule">
-    <img src="https://img.shields.io/badge/LinkedIn-🔗%20ReshmaChougule-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://github.com/reshmachougule">
-    <img src="https://img.shields.io/badge/GitHub-💻%20ReshmaChougule-black?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-</p>
+<p align="center"> <a href="mailto:reshma.chougule925@email.com"> <img src="https://img.shields.io/badge/📧%20Email-Send%20me%20memes%20or%20opportunities-blue?style=for-the-badge&logo=gmail&logoColor=white"/> </a> <a href="https://linkedin.com/in/reshmachougule"> <img src="https://img.shields.io/badge/💼%20LinkedIn-Professional%20mode%20activated-blue?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> <a href="https://github.com/reshmachougule"> <img src="https://img.shields.io/badge/💻%20GitHub-Where%20the%20magic%20(aka%20bugs)%20happens-black?style=for-the-badge&logo=github&logoColor=white"/> </a> </p>
