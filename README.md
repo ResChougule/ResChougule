@@ -9,6 +9,48 @@
 
 --
 
+<h1 align="center">
+  Hi 👋, I'm Reshma Chougule
+  <br>
+  <img src="https://readme-typing-svg.herokuapp.com?lines=Data+Analyst;Business+Strategist;Insights+Driven;Decision+Maker&font=Fira+Code&size=28&pause=1000&color=00FF00&width=600&height=60" alt="Typing SVG">
+</h1>
+
+<p align="center">
+  🔍 Passionate about <b>Data Analytics</b> & <b>Business Strategy</b> | Turning Insights into Action
+</p>
+
+<p align="center">
+  <!-- Social Badges -->
+  <a href="mailto:reshma.chougule925@email.com">
+    <img src="https://img.shields.io/badge/Email-✉️%20reshma.chougule925@email.com-blue?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://linkedin.com/in/reshmachougule">
+    <img src="https://img.shields.io/badge/LinkedIn-🔗%20ReshmaChougule-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://github.com/reshmachougule">
+    <img src="https://img.shields.io/badge/GitHub-💻%20ReshmaChougule-black?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+## 🛠️ My Core Skills
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Excel-207245?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PowerBI-F2C80F?style=for-the-badge&logo=microsoft-powerbi&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
+  
+  <img src="https://img.shields.io/badge/Canva-EA1C5D?style=for-the-badge&logo=canva&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Stakeholder_Communication-FF6F61?style=for-the-badge&logo=slack&logoColor=white"/>
+</p>
+
+
+
 ## 🧠 Skills
 
 ### 📊 Data Analytics & Tools
