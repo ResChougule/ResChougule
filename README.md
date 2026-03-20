@@ -39,13 +39,6 @@
 
 ## 🎨 Data Visualizations Showcase
 
-| Dashboard | Description |
-|-----------|-------------|
-| ![Sales Dashboard](https://github.com/YOUR_USERNAME/sales-dashboard/raw/main/dashboard.png) | Interactive sales dashboard in Tableau |
-| ![Customer Churn](https://github.com/YOUR_USERNAME/customer-churn-analysis/raw/main/churn_chart.png) | Churn prediction & insights using Python |
-| ![Market Trends](https://github.com/YOUR_USERNAME/market-research/raw/main/market_trends.png) | Market trends & strategic analysis visuals |
-
-> ✅ Tip: Keep images in your repository for live rendering.
 
 ---
 
