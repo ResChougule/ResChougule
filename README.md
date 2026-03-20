@@ -33,8 +33,10 @@
 ----------
 
 
-# 📊 Projects-Table of Contents
+## 📊 Projects
 
+
+Table of Contents
 
 ##  Strategy 
  
