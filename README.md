@@ -6,32 +6,6 @@
 <p align="center">
   🔍 Data Analytics & Business Strategy
 </p>
-
---
-
-<h1 align="center">
-  Hi 👋, I'm Reshma Chougule
-  <br>
-  <img src="https://readme-typing-svg.herokuapp.com?lines=Data+Analyst;Business+Strategist;Insights+Driven;Decision+Maker&font=Fira+Code&size=28&pause=1000&color=00FF00&width=600&height=60" alt="Typing SVG">
-</h1>
-
-<p align="center">
-  🔍 Passionate about <b>Data Analytics</b> & <b>Business Strategy</b> | Turning Insights into Action
-</p>
-
-<p align="center">
-  <!-- Social Badges -->
-  <a href="mailto:reshma.chougule925@email.com">
-    <img src="https://img.shields.io/badge/Email-✉️%20reshma.chougule925@email.com-blue?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://linkedin.com/in/reshmachougule">
-    <img src="https://img.shields.io/badge/LinkedIn-🔗%20ReshmaChougule-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://github.com/reshmachougule">
-    <img src="https://img.shields.io/badge/GitHub-💻%20ReshmaChougule-black?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-</p>
-
 ---
 
 ## 🛠️ My Core Skills
