@@ -2,11 +2,9 @@
   Hi 👋, I'm Reshma Chougule
   <img src="https://readme-typing-svg.herokuapp.com?lines=Data+Analyst;Business+Strategist;Insights+Driven;Decision+Maker&font=Fira+Code&size=24&pause=1000&color=00FF00&width=500&height=50" alt="Typing SVG">
 </h1>
-
-
 </p>
-
-
+🌐 Let’s Connect
+<p align="center"> <b>Open to collaborations, opportunities, and the occasional meme 👀</b><br><br> <a href="mailto:reshma.chougule925@email.com"> <img src="https://img.shields.io/badge/📧%20Email-Let's%20talk%20(or%20share%20memes)-D14836?style=for-the-badge&logo=gmail&logoColor=white"/> </a> <a href="https://linkedin.com/in/reschougule"> <img src="https://img.shields.io/badge/💼%20LinkedIn-Professional%20mode%20activated-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> <a href="https://github.com/reschougule"> <img src="https://img.shields.io/badge/💻%20GitHub-Code,%20chaos%20&%20creativity-181717?style=for-the-badge&logo=github&logoColor=white"/> </a> </p>
 ### 📊 Data Analytics & Tools
 <p align="left">
   <img src="https://img.shields.io/badge/Python-F7DF1E?style=for-the-badge&logo=python&logoColor=darkgreen" /> 
