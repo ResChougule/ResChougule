@@ -30,13 +30,7 @@
   <img src="https://img.shields.io/badge/Business_Strategy-8A2BE2?style=for-the-badge&logo=business&logoColor=white" />
 </p>
 
- 
-  
-
---
-
-
-
+ -
 # 📊 Featured Projects
 
 ## Table of Contents 
