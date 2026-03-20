@@ -54,18 +54,17 @@
   </span>
 </p>
 
-
+---
 
 ## Data Analysis
 
+# 📂 My Projects
 
 1. [📈 LULULEMON Marketing Data](https://github.com/ResChougule/LULULEMON-Marketing-data)  
-   *A project analyzing marketing trends for Lululemon using data-driven insights.*
+2. [💾 Data Analysis Using SQL](https://github.com/ResChougule/1-Data-Analysis-Using-SQL)
 
-2. [💾 Data Analysis Using SQL](https://github.com/ResChougule/1-Data-Analysis-Using-SQL)  
-   *SQL project performing queries, aggregations, and reporting on sample datasets.*
 
- 
+ -- 
 ## Table of Contents Quant 
  
 
