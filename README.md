@@ -44,15 +44,15 @@
 
 
 
-## 📫 Connect With Me
-
+## 🌐 Connect with Me
 <p align="center">
-  [![Email](https://img.shields.io/badge/Email-✉️%20reshma.chougule925@email.com-blue?style=for-the-badge&logo=gmail&logoColor=white)](mailto:reshma.chougule925@email.com)
-  <br><br>
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-🔗%20ReshmaChougule-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/reshmachougule)
-</p>
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=green" alt="Profile Views" />
+  <a href="mailto:reshma.chougule925@email.com">
+    <img src="https://img.shields.io/badge/Email-✉️%20reshma.chougule925@email.com-blue?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://linkedin.com/in/reshmachougule">
+    <img src="https://img.shields.io/badge/LinkedIn-🔗%20ReshmaChougule-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://github.com/reshmachougule">
+    <img src="https://img.shields.io/badge/GitHub-💻%20ReshmaChougule-black?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
 </p>
