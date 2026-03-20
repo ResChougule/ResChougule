@@ -42,26 +42,15 @@
 
 ---
 
-## 🌐 Portfolio & Blog
 
-<p align="center">
-  <a href="https://reshmachougule.dev">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge&logo=Google-Chrome" alt="Portfolio" />
-  </a>
-  <a href="https://medium.com/@reshmachougule">
-    <img src="https://img.shields.io/badge/Blog-Read-FF4500?style=for-the-badge&logo=Medium" alt="Blog" />
-  </a>
-</p>
-
----
 
 ## 📫 Connect With Me
 
 <p align="center">
-  ✉️ Email: reshma.chougule925@email.com <br>
-  🔗 LinkedIn: <a href="https://linkedin.com/in/reshmachougule">linkedin.com/in/reshmachougule</a> <br>
-  
-
+  [![Email](https://img.shields.io/badge/Email-✉️%20reshma.chougule925@email.com-blue?style=for-the-badge&logo=gmail&logoColor=white)](mailto:reshma.chougule925@email.com)
+  <br><br>
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-🔗%20ReshmaChougule-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/reshmachougule)
+</p>
 ---
 
 <p align="center">
