@@ -33,9 +33,10 @@
 ----------
 
 
-# 📊 Projects
+# 📊 Projects-Table of Contents
 
-## Table of Contents Strategy 
+
+##  Strategy 
  
 1. 🚀 [BeyondTech-BCG- Sales Strategy Analysis](https://github.com/ResChougule/forage-bcg-beyondtech-case)
 <p>
@@ -53,9 +54,8 @@
 
 
 
-## Table of Contents: Data Analysis
+## Data Analysis
 
-# 📂 My Projects
 
 1. [📈 LULULEMON Marketing Data](https://github.com/ResChougule/LULULEMON-Marketing-data)  
    *A project analyzing marketing trends for Lululemon using data-driven insights.*
