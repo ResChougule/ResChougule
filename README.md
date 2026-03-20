@@ -35,7 +35,7 @@
 
 # 📊 Projects
 
-## Table of Contents 
+## Table of Contents Strategy 
  
 1. 🚀 [BeyondTech-BCG- Sales Strategy Analysis](https://github.com/ResChougule/forage-bcg-beyondtech-case)
 <p>
@@ -50,6 +50,26 @@
     Market research, pricing strategy & launch simulation
   </span>
 </p>
+
+
+
+## Table of Contents: Data Analysis
+
+
+
+
+
+
+
+
+ 
+## Table of Contents Quant 
+ 
+
+
+
+
+
 
 
 ---
