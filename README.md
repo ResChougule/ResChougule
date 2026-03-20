@@ -5,25 +5,11 @@
 </p>
 
 
-##  🌐 Let’s Connect  
+## 🌐 Let’s Connect  
 
-<p align="center">
-  Open to opportunities and collaborations 🚀 <br><br>
-
-  <a href="mailto:reshma.chougule925@email.com">
-    <img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-
-  <a href="https://linkedin.com/in/reschougule">
-    <img src="https://img.shields.io/badge/LinkedIn-View%20Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-
-  <a href="https://github.com/reschougule">
-    <img src="https://img.shields.io/badge/GitHub-Explore%20Projects-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-</p>
-
-
+📬 💌 Reach me — reshama.chougule925@email.com  
+🤝 💼 Let’s connect — linkedin.com/in/reschougule  
+⚡ 💻 See my projects — github.com/reschougule  
 
 ### 📊 Data Analytics & Tools
 <p align="left">
