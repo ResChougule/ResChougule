@@ -23,13 +23,13 @@
 1. 🚀 [BeyondTech-BCG- Sales Strategy Analysis](https://github.com/ResChougule/forage-bcg-beyondtech-case)
 <p>
   <span style="background: linear-gradient(90deg, #ff6a00, #ee0979); -webkit-background-clip: text; color: transparent; font-weight: bold; font-size: 18px;">
-    Data analysis & business strategy case study
+    Data analysis & business strategy 
   </span>
 </p>
 
 2.[🚀 Go-to-Market Strategy Project](https://github.com/ResChougule/GO-TO-MARKET/tree/main)
 
-
+      Business Strategy- Masters Project
 
 
 
