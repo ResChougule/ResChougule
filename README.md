@@ -27,10 +27,12 @@
   </span>
 </p>
 
-2.[🚀 Go-to-Market Strategy Project](https://github.com/ResChougule/GO-TO-MARKET/tree/main)
-
-      Business Strategy- Masters Project
-
+2. 🚀 [Go-to-Market Strategy – Berlin Mitte](https://github.com/ResChougule/GO-TO-MARKET/tree/main)
+<p>
+  <span style="background: linear-gradient(90deg, #ff6a00, #ee0979); -webkit-background-clip: text; color: transparent; font-weight: bold; font-size: 18px;">
+    Market research, pricing strategy & launch simulation
+  </span>
+</p>
 
 
 ---
