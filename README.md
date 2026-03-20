@@ -56,5 +56,5 @@
 
 ---
 
-🌐 Let’s Connect (I Don’t Bite… Probably)
+🌐 Let’s Connect 
 <p align="center"> <a href="mailto:reshma.chougule925@email.com"> <img src="https://img.shields.io/badge/📧%20Email-Send%20me%20memes%20or%20opportunities-blue?style=for-the-badge&logo=gmail&logoColor=white"/> </a> <a href="https://linkedin.com/in/reschougule"> <img src="https://img.shields.io/badge/💼%20LinkedIn-ResChougule%20(%20pretending%20to%20be%20professional%20)-blue?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> <a href="https://github.com/reschougule"> <img src="https://img.shields.io/badge/💻%20GitHub-resChougule%20(%20bugs%20included%20free%20)-black?style=for-the-badge&logo=github&logoColor=white"/> </a> </p>
