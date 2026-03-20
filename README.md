@@ -31,21 +31,9 @@
 </p>
 
  
-  <!-- Productivity & Tools -->
-  <img src="https://img.shields.io/badge/Canva-EA1C5D?style=for-the-badge&logo=canva&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white"/>
   
-  <!-- Soft Skills -->
-  <img src="https://img.shields.io/badge/Stakeholder_Communication-FF6F61?style=for-the-badge&logo=slack&logoColor=white"/>
-</p>
 
-
-
-
-
-
-
+--
 
 
 
