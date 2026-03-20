@@ -7,9 +7,9 @@
 
 ## 🌐 Let’s Connect  
 
-📬 💌 Reach me — reshama.chougule925@email.com  
-🤝 💼 Let’s connect — linkedin.com/in/reschougule  
-⚡ 💻 See my projects — github.com/reschougule  
+📬 Reach me      ➜ reshama.chougule925@email.com  
+🤝 LinkedIn     ➜ linkedin.com/in/reshmachougule  
+💻 GitHub       ➜ github.com/resChougule  
 
 ### 📊 Data Analytics & Tools
 <p align="left">
