@@ -7,7 +7,7 @@
   🔍 Data Analytics & Business Strategy
 </p>
 
-
+-----
 ## 🧠 Skills
 
 ### 📊 Data Analytics & Tools
@@ -19,7 +19,7 @@
   <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" /> 
   <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=microsoft-power-bi&logoColor=black" />
 </p>
-
+---------- 
 ### 💼 Business & Strategy
 <p align="left">
   <img src="https://img.shields.io/badge/Data--Driven_Decisions-21BA45?style=for-the-badge&logo=googleanalytics&logoColor=white" /> 
@@ -28,6 +28,8 @@
   <img src="https://img.shields.io/badge/Project_Management-FF5733?style=for-the-badge&logo=asana&logoColor=white" /> 
   <img src="https://img.shields.io/badge/Business_Strategy-8A2BE2?style=for-the-badge&logo=business&logoColor=white" />
 </p>
+
+----------
 
 
 # 📊 Featured Projects
