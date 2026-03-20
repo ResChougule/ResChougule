@@ -38,7 +38,7 @@
 
 ## Table of Contents
 
-#Strategy 
+Strategy 
  
 1. 🚀 [BeyondTech-BCG- Sales Strategy Analysis](https://github.com/ResChougule/forage-bcg-beyondtech-case)
 <p>
@@ -56,8 +56,7 @@
 
 ---
 
-#Data Analysis
-
+Data Analysis
 
 
 1. [📈 LULULEMON Marketing Data](https://github.com/ResChougule/LULULEMON-Marketing-data)  
