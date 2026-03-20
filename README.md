@@ -57,6 +57,5 @@
 ---
 
 
-
-## 🌐 Connect with Me
-<p align="center"> <a href="mailto:reshma.chougule925@email.com"> <img src="https://img.shields.io/badge/📧%20Email-Send%20me%20memes%20or%20opportunities-blue?style=for-the-badge&logo=gmail&logoColor=white"/> </a> <a href="https://linkedin.com/in/reshmachougule"> <img src="https://img.shields.io/badge/💼%20LinkedIn-Professional%20mode%20activated-blue?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> <a href="https://github.com/reshmachougule"> <img src="https://img.shields.io/badge/💻%20GitHub-Where%20the%20magic%20(aka%20bugs)%20happens-black?style=for-the-badge&logo=github&logoColor=white"/> </a> </p>
+🌐 Connect With Me
+<p align="center"> <img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&width=600&height=45&lines=Hey+there!+I'm+Reshma+👋;Let's+build+something+awesome+🚀;Open+to+collaborations+💼;Coffee+%2B+Code+%3D+Happiness+☕💻" /> </p> <p align="center"> <a href="mailto:reshma.chougule925@email.com"> <img src="https://img.shields.io/badge/-📧%20Email%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=black"/> </a> <a href="https://linkedin.com/in/reshmachougule"> <img src="https://img.shields.io/badge/-💼%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=black"/> </a> <a href="https://github.com/reshmachougule"> <img src="https://img.shields.io/badge/-💻%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=black"/> </a> </p> <p align="center"> <img src="https://komarev.com/ghpvc/?username=reshmachougule&label=Profile%20Views&color=blueviolet&style=for-the-badge" /> </p>
