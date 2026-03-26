@@ -59,7 +59,7 @@ Strategy
 Data Analysis
 
 
-1. [📈 LULULEMON Marketing Data](https://github.com/ResChougule/LULULEMON-Marketing-data)  
+1. [📈 LULULEMON Marketing Data](https://github.com/ResChougule/LULULEMON-Marketing-data.) 
 2. [💾 Data Analysis Using SQL](https://github.com/ResChougule/1-Data-Analysis-Using-SQL)
 
 
