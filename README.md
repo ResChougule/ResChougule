@@ -1,5 +1,7 @@
 <h1 align="center">
-  Hi....I'm Reshma Chougule
+  Hi....
+          I'm Reshma Chougule
+  
   <img src="https://readme-typing-svg.herokuapp.com?lines=Data+Analyst;Business+Strategist;Insights+Driven;Decision+Maker&font=Fira+Code&size=24&pause=1000&color=000000&width=500&height=50" alt="Typing SVG">
 </h1>
 </p>
