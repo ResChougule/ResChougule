@@ -64,8 +64,8 @@ Data Analysis
 
 
  -- 
-## Table of Contents Quant 
- 
+Quant 
+ coming soon........
 
 
 
@@ -77,7 +77,7 @@ Data Analysis
 
 ## 🎨 Data Visualizations Showcase
 
-
+coming soon........
 ---
 
 🌐 Let’s Connect 
