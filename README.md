@@ -63,17 +63,12 @@ Data Analysis
 2. [💾 Data Analysis Using SQL](https://github.com/ResChougule/1-Data-Analysis-Using-SQL)
 
 
- -- 
+------------
+
 Quant 
  coming soon........
 
-
-
-
-
-
-
----
+------------
 
 ## 🎨 Data Visualizations Showcase
 
