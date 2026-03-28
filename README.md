@@ -49,8 +49,7 @@ Strategy
 3. [Go-to-Market Strategy – Berlin Mitte](https://github.com/ResChougule/GO-TO-MARKET/tree/main)
   <span style="color: black; font-weight: bold; font-size: 18px;">
     Market research, pricing strategy & launch simulation
-
-
+p></p>
 ---
 
 Data Analysis
