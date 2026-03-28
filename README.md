@@ -33,21 +33,21 @@
 ----------
 
 
-## 📊 Projects
+## Projects
 
 
 ## Table of Contents
 
 Strategy 
  
-1. 🚀 [BeyondTech-BCG- Sales Strategy Analysis](https://github.com/ResChougule/forage-bcg-beyondtech-case)
+1. [BeyondTech-BCG- Sales Strategy Analysis](https://github.com/ResChougule/forage-bcg-beyondtech-case)
 <p>
   <span style="color: black; font-weight: bold; font-size: 18px;">
     Data analysis & business strategy 
   </span>
 </p>
 
-2. 🚀 [Go-to-Market Strategy – Berlin Mitte](https://github.com/ResChougule/GO-TO-MARKET/tree/main)
+2. [Go-to-Market Strategy – Berlin Mitte](https://github.com/ResChougule/GO-TO-MARKET/tree/main)
 <p>
   <span style="color: black; font-weight: bold; font-size: 18px;">
     Market research, pricing strategy & launch simulation
@@ -59,8 +59,8 @@ Strategy
 Data Analysis
 
 
-1. [📈 LULULEMON Marketing Data](https://github.com/ResChougule/LULULEMON-Marketing-data.) 
-2. [💾 Data Analysis Using SQL](https://github.com/ResChougule/1-Data-Analysis-Using-SQL)
+1. [LULULEMON Marketing Data](https://github.com/ResChougule/LULULEMON-Marketing-data.) 
+2. [Data Analysis Using SQL](https://github.com/ResChougule/1-Data-Analysis-Using-SQL)
 
 
 ------------
@@ -70,12 +70,12 @@ Quant
 
 ------------
 
-## 🎨 Data Visualizations Showcase
+## Data Visualizations Showcase
 coming soon...
 
 ---
 
-🌐 Let’s Connect 
+
 <p align="center"> 
 <a href="mailto:reshma.chougule925@email.com"> 
 <img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white"/> 
