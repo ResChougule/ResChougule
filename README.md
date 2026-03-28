@@ -44,8 +44,9 @@ Strategy
  
 1. [BeyondTech-BCG- Sales Strategy Analysis](https://github.com/ResChougule/forage-bcg-beyondtech-case)
   <span style="color: black; font-weight: bold; font-size: 18px;">
-    Data analysis & business strategy 
-2. [Go-to-Market Strategy – Berlin Mitte](https://github.com/ResChougule/GO-TO-MARKET/tree/main)
+    Data analysis & business strategy
+   <p></p>
+3. [Go-to-Market Strategy – Berlin Mitte](https://github.com/ResChougule/GO-TO-MARKET/tree/main)
   <span style="color: black; font-weight: bold; font-size: 18px;">
     Market research, pricing strategy & launch simulation
 
