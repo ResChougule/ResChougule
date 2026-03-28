@@ -5,7 +5,7 @@
 </p>
 
 
-## 🌐 Let’s Connect  
+## Let’s Connect  
 
 📬 Reach me      ➜ reshama.chougule925@email.com  
 🤝 LinkedIn     ➜ [linkedin.com/in/reshmachougule](https://www.linkedin.com/in/reshmachougule/)  
