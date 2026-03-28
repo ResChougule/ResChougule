@@ -43,7 +43,6 @@ GitHub       ➜ [/ResChougule ](https://github.com/reschougule)
 Strategy 
  
 1. [BeyondTech-BCG- Sales Strategy Analysis](https://github.com/ResChougule/forage-bcg-beyondtech-case)
-<p>
   <span style="color: black; font-weight: bold; font-size: 18px;">
     Data analysis & business strategy 
   </span>
