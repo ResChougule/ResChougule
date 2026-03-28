@@ -7,11 +7,11 @@
 
 ## Let’s Connect  
 
-📬 Reach me      ➜ reshama.chougule925@email.com  
-🤝 LinkedIn     ➜ [linkedin.com/in/reshmachougule](https://www.linkedin.com/in/reshmachougule/)  
-💻 GitHub       ➜ [/ResChougule ](https://github.com/reschougule) 
+Reach me      ➜ reshama.chougule925@email.com  
+LinkedIn     ➜ [linkedin.com/in/reshmachougule](https://www.linkedin.com/in/reshmachougule/)  
+GitHub       ➜ [/ResChougule ](https://github.com/reschougule) 
 
-### 📊 Data Analytics & Tools
+### Data Analytics & Tools
 <p align="left">
   <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white" /> 
   <img src="https://img.shields.io/badge/R-000000?style=for-the-badge&logo=r&logoColor=white" /> 
@@ -21,7 +21,7 @@
   <img src="https://img.shields.io/badge/PowerBI-000000?style=for-the-badge&logo=microsoft-power-bi&logoColor=white" />
 </p>
 
-### 💼 Business & Strategy
+### Business & Strategy
 <p align="left">
   <img src="https://img.shields.io/badge/Data--Driven_Decisions-000000?style=for-the-badge&logo=googleanalytics&logoColor=white" /> 
   <img src="https://img.shields.io/badge/Market_Analysis-000000?style=for-the-badge&logo=analytics&logoColor=white" /> 
