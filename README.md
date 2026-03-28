@@ -71,8 +71,8 @@ Quant
 ------------
 
 ## 🎨 Data Visualizations Showcase
+coming soon...
 
-coming soon........
 ---
 
 🌐 Let’s Connect 
