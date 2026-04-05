@@ -16,11 +16,9 @@ GitHub       ➜ [/ResChougule ](https://github.com/reschougule)
 ### Data Analytics & Tools
 <p align="left">
   <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white" /> 
-  <img src="https://img.shields.io/badge/R-000000?style=for-the-badge&logo=r&logoColor=white" /> 
   <img src="https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=sqlite&logoColor=white" /> 
   <img src="https://img.shields.io/badge/Excel-000000?style=for-the-badge&logo=microsoft-excel&logoColor=white" /> 
   <img src="https://img.shields.io/badge/Tableau-000000?style=for-the-badge&logo=tableau&logoColor=white" /> 
-  <img src="https://img.shields.io/badge/PowerBI-000000?style=for-the-badge&logo=microsoft-power-bi&logoColor=white" />
 </p>
 
 ### Business & Strategy
