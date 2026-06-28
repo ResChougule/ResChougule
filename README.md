@@ -36,26 +36,7 @@ GitHub      ➜ [/ResChougule ](https://github.com/reschougule)
 ----------
 
 
-## Projects
 
-
-## Table of Contents
-
-Strategy 
- 1. [BeyondTech-BCG- Sales Strategy Analysis](https://github.com/ResChougule/forage-bcg-beyondtech-case)
-<p>
-  <span style="color: black; font-weight: bold; font-size: 18px; font-family: 'Times New Roman', serif;">
-    Data analysis & business strategy 
-  </span>
-</p>
-
-2. [Go-to-Market Strategy – Berlin Mitte](https://github.com/ResChougule/GO-TO-MARKET/tree/main)
-<p>
-  <span style="color: black; font-weight: bold; font-size: 18px; font-family: 'Times New Roman', serif;">
-    Market research, pricing strategy & launch simulation
-  </span>
-</p>
----
 
 
 
